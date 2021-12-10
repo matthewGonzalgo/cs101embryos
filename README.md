@@ -1,4 +1,4 @@
-# CS101 Embryos
+# CS101: Classification and Detection of Embryo Polarization
 ### Introduction
 This code repository contains code for the 2021 fall CS101 embryo project.
 
